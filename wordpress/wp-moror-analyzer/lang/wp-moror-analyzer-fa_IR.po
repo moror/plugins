@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Moror Analytics\n"
+"POT-Creation-Date: 2014-12-03 14:46+0330\n"
+"PO-Revision-Date: 2014-12-03 14:51+0330\n"
+"Last-Translator: \n"
+"Language-Team: Moror <info@moror.ir>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;__e;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp-moror-analyzer-page.php:22 ../wp-moror-analyzer-page.php:135
+msgid "WP Moror Analyzer"
+msgstr "آنالیزگر وب مرور"
+
+#: ../wp-moror-analyzer-page.php:26
+msgid "Configuration updated"
+msgstr "تنظیمات بروزرسانی شد"
+
+#: ../wp-moror-analyzer-page.php:28
+msgid "Error while saving options"
+msgstr "متاسفانه خطایی هنگام ذخیره تنظیمات رخ داده"
+
+#: ../wp-moror-analyzer-page.php:39
+msgid "This plugin add Moror analyzer code to your site."
+msgstr ""
+"(مرور تحلیلگر و آمارگیر وب سایت) این پلاگین کد آمارگیر مرور را مرور را به "
+"وبسایت اضافه میکند."
+
+#: ../wp-moror-analyzer-page.php:40
+msgid "<b>Note</b>: The browser must support javascript."
+msgstr ""
+"‏<b>توجه</b>: برای عملکرد صحیح این پلاگین و همچنین آمارگیر مرور باید "
+"جاوااسکریپت در مرورگر فعال باشد."
+
+#: ../wp-moror-analyzer-page.php:50
+msgid "About this plugin"
+msgstr "درباره پلاگین"
+
+#: ../wp-moror-analyzer-page.php:52
+msgid "Moror analyzer"
+msgstr "مرور، آمارگیر و تحلیلگر وب"
+
+#: ../wp-moror-analyzer-page.php:69 ../wp-moror-analyzer.php:71
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: ../wp-moror-analyzer-page.php:88
+msgid "Where the js files should be loaded?"
+msgstr "فایل جاوااسکریپت در کدام بخش صفحه باید لود شود؟"
+
+#: ../wp-moror-analyzer-page.php:90
+msgid "Head"
+msgstr "ابتدا"
+
+#: ../wp-moror-analyzer-page.php:91
+msgid "Footer"
+msgstr "انتها"
+
+#: ../wp-moror-analyzer-page.php:93
+msgid ""
+"Head: Load the js files in the &lt;head&gt; section. If this is checked, the "
+"next option will be disabled.<br />Footer: Load the js files in the &lt;div "
+"id=\"footer\"&gt; section."
+msgstr ""
+"در هدر: فایل JS در ابتدای صفحه، بخش &lt;head&gt; قرار میگیرد<br />در فوتر: "
+"فایل JS در انتهای صفحه، بخش &lt;div id=\"footer\"&gt; قرار میگیرد"
+
+#: ../wp-moror-analyzer-page.php:97
+msgid "Insert analyze code if user logged in?"
+msgstr "آیا کد آمارگیر برای کاربران لاگین شده سیستم نیز فعال باشد؟"
+
+#: ../wp-moror-analyzer-page.php:99
+msgid "Yes"
+msgstr "بله"
+
+#: ../wp-moror-analyzer-page.php:100
+msgid "No"
+msgstr "خیر"
+
+#: ../wp-moror-analyzer-page.php:102
+msgid ""
+"Yes: Allway add analyze code to site, event when user is loggen in.\n"
+"\t\t\t\t<br />No: Do not add analyze code when admin is logged in."
+msgstr ""
+"بله: آمارگیر برای تمامی بازدیدگنندگان سایت از جمله اعضاء سایت فعال باشد.\n"
+"‏\t\t\t\t<br />خیر:‬ آمارگیر تنها برای کاربران میهمان فعال باشد."
+
+#: ../wp-moror-analyzer-page.php:108
+msgid "Enter your analyze code"
+msgstr "کد آمارگیر خود را اینجا وارد کنید"
+
+#: ../wp-moror-analyzer-page.php:110
+msgid "Get your analyze code form here"
+msgstr "کد آمارگیر خود را از اینجا بدست بیاورید"
+
+#: ../wp-moror-analyzer-page.php:117
+msgid "Save Changes"
+msgstr "ذخیره تنظیمات"
+
+#, fuzzy
+#~ msgid "WP Moror Analyzerd"
+#~ msgstr "آنالیزگر وب مرور"
